@@ -40,6 +40,8 @@ The recipient is `arblankenbiller@gmail.com`, from the supplied Contact referenc
 
 ## Hosting
 
+The portfolio is published with GitHub Pages at **https://arblankenbiller.github.io/abigailblankenbiller/**. The workflow in `.github/workflows/github-pages.yml` regenerates the HTML and publishes `dist/` whenever `main` changes. It can also be run manually from the Actions tab. The repository’s Pages source is **GitHub Actions**.
+
 `.openai/hosting.json` identifies the private Sites preview and declares `dist/` as the static directory. The same `dist/` folder can be deployed to GitHub Pages, Cloudflare Pages, Netlify, or another static host without changing the site.
 
 The original repository license is preserved in `LICENSE`.
