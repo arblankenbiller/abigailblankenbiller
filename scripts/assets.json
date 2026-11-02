@@ -1,0 +1,442 @@
+{
+  "Collage_1": [
+    {
+      "src": "Collage_1-640.webp",
+      "width": 640,
+      "height": 853
+    },
+    {
+      "src": "Collage_1-1280.webp",
+      "width": 1280,
+      "height": 1707
+    },
+    {
+      "src": "Collage_1-2000.webp",
+      "width": 2000,
+      "height": 2667
+    }
+  ],
+  "Collage_2": [
+    {
+      "src": "Collage_2-640.webp",
+      "width": 640,
+      "height": 853
+    },
+    {
+      "src": "Collage_2-1280.webp",
+      "width": 1280,
+      "height": 1707
+    },
+    {
+      "src": "Collage_2-2000.webp",
+      "width": 2000,
+      "height": 2667
+    }
+  ],
+  "Collage_3": [
+    {
+      "src": "Collage_3-640.webp",
+      "width": 640,
+      "height": 855
+    },
+    {
+      "src": "Collage_3-1280.webp",
+      "width": 1280,
+      "height": 1709
+    },
+    {
+      "src": "Collage_3-2000.webp",
+      "width": 2000,
+      "height": 2671
+    }
+  ],
+  "MixedMediaCollage": [
+    {
+      "src": "MixedMediaCollage-640.webp",
+      "width": 640,
+      "height": 853
+    },
+    {
+      "src": "MixedMediaCollage-1280.webp",
+      "width": 1280,
+      "height": 1707
+    },
+    {
+      "src": "MixedMediaCollage-2000.webp",
+      "width": 2000,
+      "height": 2667
+    }
+  ],
+  "p1": [
+    {
+      "src": "p1-640.webp",
+      "width": 640,
+      "height": 504
+    },
+    {
+      "src": "p1-1280.webp",
+      "width": 1280,
+      "height": 1008
+    }
+  ],
+  "p1_1": [
+    {
+      "src": "p1_1-1.webp",
+      "small": "p1_1-1-1600.webp",
+      "width": 2800,
+      "height": 1500,
+      "smallWidth": 1600
+    }
+  ],
+  "p1_2": [
+    {
+      "src": "p1_2-1.webp",
+      "small": "p1_2-1-1600.webp",
+      "width": 2800,
+      "height": 4562,
+      "smallWidth": 1600
+    }
+  ],
+  "p1_3": [
+    {
+      "src": "p1_3-1.webp",
+      "small": "p1_3-1-1600.webp",
+      "width": 2800,
+      "height": 4034,
+      "smallWidth": 1600
+    }
+  ],
+  "p1_4": [
+    {
+      "src": "p1_4-1.webp",
+      "small": "p1_4-1-1600.webp",
+      "width": 2800,
+      "height": 4020,
+      "smallWidth": 1600
+    }
+  ],
+  "p1_5": [
+    {
+      "src": "p1_5-1.webp",
+      "small": "p1_5-1-1600.webp",
+      "width": 2800,
+      "height": 4554,
+      "smallWidth": 1600
+    }
+  ],
+  "p2": [
+    {
+      "src": "p2-640.webp",
+      "width": 640,
+      "height": 504
+    },
+    {
+      "src": "p2-1280.webp",
+      "width": 1280,
+      "height": 1008
+    }
+  ],
+  "p2_1": [
+    {
+      "src": "p2_1-1.webp",
+      "small": "p2_1-1-1600.webp",
+      "width": 2800,
+      "height": 1498,
+      "smallWidth": 1600
+    }
+  ],
+  "p2_2": [
+    {
+      "src": "p2_2-1.webp",
+      "small": "p2_2-1-1600.webp",
+      "width": 2800,
+      "height": 4160,
+      "smallWidth": 1600
+    }
+  ],
+  "p2_3": [
+    {
+      "src": "p2_3-1.webp",
+      "small": "p2_3-1-1600.webp",
+      "width": 2800,
+      "height": 4154,
+      "smallWidth": 1600
+    }
+  ],
+  "p2_4": [
+    {
+      "src": "p2_4-1.webp",
+      "small": "p2_4-1-1600.webp",
+      "width": 2800,
+      "height": 5000,
+      "smallWidth": 1600
+    },
+    {
+      "src": "p2_4-2.webp",
+      "small": "p2_4-2-1600.webp",
+      "width": 2800,
+      "height": 3736,
+      "smallWidth": 1600
+    }
+  ],
+  "p2_5": [
+    {
+      "src": "p2_5-1.webp",
+      "small": "p2_5-1-1600.webp",
+      "width": 2800,
+      "height": 5000,
+      "smallWidth": 1600
+    },
+    {
+      "src": "p2_5-2.webp",
+      "small": "p2_5-2-1600.webp",
+      "width": 2800,
+      "height": 5000,
+      "smallWidth": 1600
+    },
+    {
+      "src": "p2_5-3.webp",
+      "small": "p2_5-3-1600.webp",
+      "width": 2800,
+      "height": 2410,
+      "smallWidth": 1600
+    }
+  ],
+  "p3": [
+    {
+      "src": "p3-640.webp",
+      "width": 640,
+      "height": 504
+    },
+    {
+      "src": "p3-1280.webp",
+      "width": 1280,
+      "height": 1008
+    }
+  ],
+  "p3_1": [
+    {
+      "src": "p3_1-1.webp",
+      "small": "p3_1-1-1600.webp",
+      "width": 2800,
+      "height": 3738,
+      "smallWidth": 1600
+    }
+  ],
+  "p3_2": [
+    {
+      "src": "p3_2-1.webp",
+      "small": "p3_2-1-1600.webp",
+      "width": 2800,
+      "height": 5000,
+      "smallWidth": 1600
+    },
+    {
+      "src": "p3_2-2.webp",
+      "small": "p3_2-2-1600.webp",
+      "width": 2800,
+      "height": 1588,
+      "smallWidth": 1600
+    }
+  ],
+  "p3_3": [
+    {
+      "src": "p3_3-1.webp",
+      "small": "p3_3-1-1600.webp",
+      "width": 2800,
+      "height": 5000,
+      "smallWidth": 1600
+    },
+    {
+      "src": "p3_3-2.webp",
+      "small": "p3_3-2-1600.webp",
+      "width": 2800,
+      "height": 5000,
+      "smallWidth": 1600
+    },
+    {
+      "src": "p3_3-3.webp",
+      "small": "p3_3-3-1600.webp",
+      "width": 2800,
+      "height": 1310,
+      "smallWidth": 1600
+    }
+  ],
+  "p3_4": [
+    {
+      "src": "p3_4-1.webp",
+      "small": "p3_4-1-1600.webp",
+      "width": 2800,
+      "height": 5000,
+      "smallWidth": 1600
+    },
+    {
+      "src": "p3_4-2.webp",
+      "small": "p3_4-2-1600.webp",
+      "width": 2800,
+      "height": 3530,
+      "smallWidth": 1600
+    }
+  ],
+  "p4": [
+    {
+      "src": "p4-640.webp",
+      "width": 640,
+      "height": 504
+    },
+    {
+      "src": "p4-1280.webp",
+      "width": 1280,
+      "height": 1008
+    }
+  ],
+  "p4_1": [
+    {
+      "src": "p4_1-1.webp",
+      "small": "p4_1-1-1600.webp",
+      "width": 2800,
+      "height": 3540,
+      "smallWidth": 1600
+    }
+  ],
+  "p4_2": [
+    {
+      "src": "p4_2-1.webp",
+      "small": "p4_2-1-1600.webp",
+      "width": 2800,
+      "height": 5000,
+      "smallWidth": 1600
+    },
+    {
+      "src": "p4_2-2.webp",
+      "small": "p4_2-2-1600.webp",
+      "width": 2800,
+      "height": 276,
+      "smallWidth": 1600
+    }
+  ],
+  "p4_3": [
+    {
+      "src": "p4_3-1.webp",
+      "small": "p4_3-1-1600.webp",
+      "width": 1400,
+      "height": 5000,
+      "smallWidth": 1400
+    },
+    {
+      "src": "p4_3-2.webp",
+      "small": "p4_3-2-1600.webp",
+      "width": 1400,
+      "height": 1939,
+      "smallWidth": 1400
+    }
+  ],
+  "p5": [
+    {
+      "src": "p5-640.webp",
+      "width": 640,
+      "height": 504
+    },
+    {
+      "src": "p5-1280.webp",
+      "width": 1280,
+      "height": 1008
+    }
+  ],
+  "p5_1": [
+    {
+      "src": "p5_1-1.webp",
+      "small": "p5_1-1-1600.webp",
+      "width": 2800,
+      "height": 5000,
+      "smallWidth": 1600
+    },
+    {
+      "src": "p5_1-2.webp",
+      "small": "p5_1-2-1600.webp",
+      "width": 2800,
+      "height": 5000,
+      "smallWidth": 1600
+    },
+    {
+      "src": "p5_1-3.webp",
+      "small": "p5_1-3-1600.webp",
+      "width": 2800,
+      "height": 5000,
+      "smallWidth": 1600
+    },
+    {
+      "src": "p5_1-4.webp",
+      "small": "p5_1-4-1600.webp",
+      "width": 2800,
+      "height": 5000,
+      "smallWidth": 1600
+    },
+    {
+      "src": "p5_1-5.webp",
+      "small": "p5_1-5-1600.webp",
+      "width": 2800,
+      "height": 5000,
+      "smallWidth": 1600
+    },
+    {
+      "src": "p5_1-6.webp",
+      "small": "p5_1-6-1600.webp",
+      "width": 2800,
+      "height": 3278,
+      "smallWidth": 1600
+    }
+  ],
+  "p6": [
+    {
+      "src": "p6-640.webp",
+      "width": 640,
+      "height": 504
+    },
+    {
+      "src": "p6-1280.webp",
+      "width": 1280,
+      "height": 1008
+    }
+  ],
+  "p6_1": [
+    {
+      "src": "p6_1-1.webp",
+      "small": "p6_1-1-1600.webp",
+      "width": 2800,
+      "height": 5000,
+      "smallWidth": 1600
+    },
+    {
+      "src": "p6_1-2.webp",
+      "small": "p6_1-2-1600.webp",
+      "width": 2800,
+      "height": 5000,
+      "smallWidth": 1600
+    },
+    {
+      "src": "p6_1-3.webp",
+      "small": "p6_1-3-1600.webp",
+      "width": 2800,
+      "height": 2762,
+      "smallWidth": 1600
+    }
+  ],
+  "portrait": [
+    {
+      "src": "portrait-640.webp",
+      "width": 640,
+      "height": 960
+    },
+    {
+      "src": "portrait-1280.webp",
+      "width": 1280,
+      "height": 1920
+    },
+    {
+      "src": "portrait-2000.webp",
+      "width": 2000,
+      "height": 3000
+    }
+  ]
+}
